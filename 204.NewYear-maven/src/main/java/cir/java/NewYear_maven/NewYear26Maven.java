@@ -185,7 +185,7 @@ public class NewYear26Maven extends JFrame {
 		panel.add(snowFlake_20);
 		
 		JLabel newYearTree = new JLabel("");
-		newYearTree.setIcon(new ImageIcon(NewYear26Maven.class.getResource("/img/png-transparent-christmas-tree-pine-fir-three-rows-of-christmas-tree-leaf-holidays-tree-branch.png")));
+		newYearTree.setIcon(new ImageIcon(NewYear26Maven.class.getResource("/res/img/png-transparent-christmas-tree-pine-fir-three-rows-of-christmas-tree-leaf-holidays-tree-branch.png")));
 		newYearTree.setBounds(321, 440, 147, 203);
 		panel.add(newYearTree);
 		
